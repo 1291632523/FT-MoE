@@ -33,7 +33,7 @@ Intelligent fault-tolerant (FT) computing has recently demonstrated significant 
 ## License
 
 BSD-3-Clause. 
-Copyright (c) 2021, Shreshth Tuli.
+Copyright (c) 2025.
 All rights reserved.
 
 See License file for more details.
