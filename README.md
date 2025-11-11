@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/License-BSD%203--Clause-red.svg" alt="License">
   </a>
    <a>
-    <img src="https://img.shields.io/badge/python-3.7%20%7C%203.8-blue.svg" alt="Python 3.9">
+    <img src="https://img.shields.io/badge/python-3.9-blue.svg" alt="Python 3.9">
   </a>
 </div>
 
