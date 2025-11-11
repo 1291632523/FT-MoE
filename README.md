@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/python-3.7%20%7C%203.8-blue.svg" alt="Python 3.9">
   </a>
 </div>
-> __Note__: This repository is now superseded by [PreGAN+](https://github.com/imperial-qore/PreGANPlus). 
+> __Note__: . 
 
    <!-- <a>
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fimperial-qore%2FPreGAN&count_bg=%23FFC401&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits">
